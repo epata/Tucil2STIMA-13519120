@@ -1,0 +1,8 @@
+Matematika I.
+Matematika II,Matematika I.
+Astrofisika I,Matematika I,Fisika Dasar.
+Fisika Dasar.
+Mekanika Astronomi,Fisika Dasar,Mekanika Dasar.
+Mekanika Dasar.
+Astronomi Komputasi,Matematika II,Astrofisika I.
+Astrofisika II,Astrofisika I,Mekanika Astronomi.
