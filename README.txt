@@ -4,13 +4,14 @@ SEMESTER II 2020/2021
 NAMA : EPATA TUAH
 NIM  : 13519120
 KELAS: K-03
+NAMA APLIKASI: EPAPLAN
 
 # DESKRIPSI #
 Algoritma topological sort merupakan salah satu penerapan dari pendekatan
 Decrease and Conquer, yakni algoritma pengurutan node pada graf non-sirkuler 
 terarah atau dapat disebut Directed Acyclic Graph (DAG) dengan pemisalan node A
 menuju node B, node A muncul terlebih dahulu sebelum node B pada pengurutan.
-Pada program ini, algoritma topological sort digunakan dalam pembuatan rencana
+Pada aplikasi Epaplan ini, algoritma topological sort digunakan dalam pembuatan rencana
 pengambilan mata kuliah. Pertama, dilakukan pengecekan derajat masuk pada simpul DAG. 
 Apabila derajat masuk suatu simpul adalah nol, pilih simpul tersebut. Simpul tersebut
 akan dimasukkan ke rencana kuliah. Setelah dimasukkan, simpul tersebut dihapus
