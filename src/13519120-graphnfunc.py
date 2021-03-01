@@ -3,7 +3,7 @@
 # Kelas			: K-03                             
 # Mata Kuliah	: Strategi Algoritma               
 # Deskripsi		: TUGAS KECIL 2 (Penyusunan Rencana Kuliah dengan Topological Sort)
-#				  implementasi 13519120-functions.py
+#				  implementasi 13519120-graphnfunc.py
 
 #FUNGSI-FUNGSI ESENSIAL YANG DIGUNAKAN PADA 13519120-main.py dan 13519120-topsort.py
 #Fungsi convert(arrayOfChar) menyatukan isi arrayOfChar menjadi sebuah kata
